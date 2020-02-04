@@ -1,0 +1,12 @@
+
+        .fakeimg {
+          height: 400px;
+          background: rgb(14, 104, 84);
+        }
+        body, footer{background-color: #388C9F;}
+        li{
+         color: #E1F1F5; 
+        }
+        h2,p,figcaption,h5{color: #E1F1F5;}
+        
+       
