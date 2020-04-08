@@ -96,7 +96,7 @@ body{
     background: white;
     margin-top: 10px;
     width: 200px;
-    height: 200px;
+    height: 300px;
     display: flex;
     left: 0px;
     justify-content: space-around;
@@ -205,7 +205,7 @@ body{
         width: auto;
     }
     .jscode img, .jscode2 img{
-        width: 310px;
+        width: 300px;
         height: 150px;
     }
 
